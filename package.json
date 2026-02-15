@@ -1,9 +1,9 @@
 {
-  "name": "",
+  "name": "nigilya.com",
   "type": "module",
   "version": "5.5.1",
   "scripts": {
-    "dev": "astro dev",
+    "dev": "astro dev --port 3000 --host",
     "build": "astro check && astro build && pagefind --site dist && cp -r dist/pagefind public/",
     "preview": "astro preview",
     "sync": "astro sync",
