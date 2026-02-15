@@ -6,7 +6,7 @@ export const SITE = {
   title: "Nigilya Mani",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerIndex: 1,
+  postPerIndex: 2,
   postPerPage: 4,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: false,
