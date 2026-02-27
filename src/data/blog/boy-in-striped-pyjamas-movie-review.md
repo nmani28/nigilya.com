@@ -1,48 +1,53 @@
 ---
 author: Nigilya Mani
-pubDatetime: 2026-02-15T00:00:00Z
-modDatetime: 2026-02-15T00:00:00Z
-title: The Boy in the Striped Pyjamas - Movie Review
-slug: boy-in-striped-pyjamas-movie-review
+pubDatetime: 2026-02-27T20:12:00Z
+modDatetime: 2026-02-27T20:12:00Z
+title: Book Reviews over the Years!
+slug: book-reviews-over-the-years
 featured: true
 draft: false
 tags:
-  - movie review
-  - film
-  - world war ii
-description: A review of the 2008 film 'The Boy in the Striped Pyjamas' based on John Boyne's novel, exploring the profound friendship between two boys during WWII.
+  - book review
+  - don quixote
+  - wilkie collins
+  - anna karenina
+description: A compendium of past book reviews.
 ---
 
-This is an article summarizing, in my own words, the experience of watching the movie 'The Boy in the Striped Pyjamas', released in 2008 and based on a novel by John Boyne. It's about an unlikely friendship between two boys, set in the period of the Second World War.
+I had always been an avid reader, but sadly, over the last few years, the frequency of my reading has decreased. I intend to retake reading as a pastime in later years. This is a list of some of my past book reviews.
 
-## Initial Unease
+## Invisible Cities - Italo Calvino
 
-I was already possessed with a vague sense of unease before I started to watch the movie, 'The Boy in the Striped Pyjamas' on Netflix. The thumbnail for the movie shows two boys, aged around nine, sitting on a grassy field with a netted fence in between. One of them is completely bald, wearing striped pyjamas and a strained grimace on his little face. It doesn't take a genius to guess that he is located within some kind of prison. The fact that he seems to be talking to someone who is not, cannot bode well for him and by extension, the viewers of the film.
+![Cover of Italo Calvino's Invisible Cities.](/public/images/italo_calvino.jpg)
 
-## Building Dread Through Contrast
+I think we like what we cannot fully understand, because it stays with us long after we've finished with it. Hence, I loved 'Invisible Cities'. Each chapter dealt with the description of one 'city', and each is like a poem, inspiring wonder. 
 
-The movie does well to build on that same unease it generates at the beginning, through preliminary scenes where a group of young boys run around in play on the austere streets of Berlin. The careless movements of the lads at the prime of their childhood contrasts markedly with the stultifying gloom in the air around them. Men and women in dark, sombre colours stream all around the gambolling children. The best-dressed among the masses are smiling or laughing bearing no marks of pain in their facial expressions. In horrific juxtaposition, prisoners of war, dressed in tatters, meekly follow the orders of armed soldiers. In such an environment, does the movie begin.
+These imaginations could be a conversation between Kublai Khan and Marco Polo, OR a conversation between two homeless people as one tells the other what his future could have been. I guess we'll never know. Such is the beauty of this book.
 
-## Bruno's Innocent Perspective
+## This Divided Island: Stories from the Sri Lankan War - Samanth Subramanian
 
-Soon, we understand that the narrative is unfolding from the point of view of Bruno, one of the kids in the gang. He is an innocent boy, typical of someone his age. His father, as we will soon learn, is the manager of a concentration camp in the countryside, a fact of which the rest of the family is initially unaware. The poignant effect of war is cushioned when seen from the eyes of Bruno as dialogues and actions of terrible import made by the adult characters around him brush by, not delivering an emotional blow just yet. There is a sense instilled in us, steadily growing, that the way is being cleared for an eventuality that will shock and dismay. I am a sensitive viewer and my heart grows heavier as I watch.
+	
+I liked this book because it taught me more about the Sri Lanka war, and its cultural, political, religious motivations. It describes -- sometimes in a confused, scrambled way -- events of the war as recited to the author, by his contacts in the country. In addition to the lead-up to the conflict, which is information you can always acquire from the Internet, it works to give an account of the emotions of real people, and the touching stories that the juggernaut of war has left behind. Prepare yourself to be depressed, stunned, angry.
 
-## An Unlikely Friendship
+Not a big fan of the narrative journalism style, but don't see how else the book could have been written. 3 stars!
 
-Bruno, newly deprived of companionship in a strange new countryside that his family has moved to, meets Shmuel who is another boy his age. Shmuel is always clothed in grimy pyjamas supplemented with a streak of dirt on his cheeks. The two bond ferociously over a love for board games and conversation, unaware that they are on the scene of that dreaded site of human fallacy -- the concentration camp. Even though the visuals focus on these youngsters who are blissfully unaware of the troubles of the land, I kept expecting to see a bloodied prisoner with wild eyes burst into the scene ranting about sharp-edged tools and evil monsters.
+## Don Quixote - Miguel de Cervantes Saavedra
 
-## Escalating Tension
+![Cover of Cervantes's Don Quixote.](/public/images/don_quixote.png)
 
-With this niggling feeling ever-present, the film artfully depicts the blooming friendship between Bruno and Shmuel. While the boys nurse but just an iota of an understanding of the situation dominant in Germany at the time, they are incapable of recognizing its full significance or its reach down to their own personal lives. Nobody is aware of Bruno's companionship with Shmuel, all the adults are wrapped up in their own perversities. Gradually, we are shown flashes of the merciless regime at its full force – a Nazi soldier beating a Jew servant to death for a wayward comment, a report of the sudden 'disappearance' of Shmuel's father. One can feel the eventuality looming ahead, magnified with every pained look and unwilling action that the characters take, captured masterfully by the camera.
+The "World's First Novel" is a jolly ol' romp across Spain with two madcap characters. And long -- very long. There were pages and pages of stories, that turned out to have absolutely no point. But that's ok, because they paint a picture of a time long gone by, where love-sick shepherds sang mournfully in green meadows, and colorful plays were acted out with much gaiety in rustic towns. Also, in the great ocean of words, were a few choice pearls of thought.
 
-The tension builds. In alarm, we watch Bruno as he sneaks out of his house and runs to the fence; he starts digging with the intention of joining his buddy's search for his father on the other side. We want to call out, reach into the screen and drag him back by the shoulders – can he not sense the impending doom? But how can he, when he is just a little child, guided by the noble instincts of friendship and kindness that the world has not yet managed to loot from him?
+Based upon the notion of knight errantry, the narrative is bursting with rich detail, and the author makes sure that we meet various types of people along the ride -- all seemingly willing and ready to launch into long-winded tales of their past, present and future. Some of the dialogues were confusing, but also entertaining (especially the ones between Sancho Panza and Quixote on the obligations of knight/squire/governor/shepherd, the former's tendency to lapse into nonsensical proverbs and 'other such crucial matters'. See what I did there?)
 
-## The Brutal Climax
+The characters are all a bit crazy to me, really, because they're so removed from our current age. For instance, everybody believes that Quixote is nuts, but they also thoroughly love him and they are also astonished by his deeds -- all above feelings are experienced with equal fervor. Towards the close, I realized that my favorite character was the Knight of the Sad Countenance, himself. I thought it was tragic that he didn't get to 'see' the peerless Dulcinea Del Toboso! But the book has an undeniable charm. There is infinite romance contained in its pages.
 
-The alarm slowly changes into horror as we realize that he is going into the shelter of the camp with Shmuel to search for the latter's father, and that the two of them are not turning back even when they encounter crowds of strange men, miserable and dirty; weak with fatigue and pain. The horror I've been experiencing crests gradually and then fades into an aching sadness when I witness the eventuality. Little Bruno and Shmuel are locked up and sprayed with poisonous gas along with innumerable others.
+So when I reached the end, it was with a certain sadness that I laid it down. I don't think it is an amazing book, at all -- but I'm glad I read it. The knight and his squire have been passed down through the ages, they form part of the bedrock of classical literature -- and knowing them makes me feel richer.
 
-It is a brutal ending, though not unexpected. Although the plot could have dictated that Shmuel is the one who runs to the other side, the side of freedom and joy, it is not to be. It is Bruno who innocently enters into the realm of unimaginable cruelty to help his new friend. His virtue kills him; after all, the world at this time was a theatre for the worst human traits – here in this strange upside-down place, the most heinous were rewarded with Life while sweet babes were slaughtered. War claims countless casualties – people, properties, morals, and the film does faithful justice to its harsh realities.
 
-## Conclusion
+## The Vital Question: Energy, Evolution, and the Origins of Complex Life - Nick Lane
 
-In conclusion, this is a film worth watching for its stolid realism and consummate execution of plot, but remember to go in with a tough heart!
+If your only connection with Biology is the knowledge that the "mitochondria is the powerhouse of the cell", chances are this book is going to go whooshing over your head. Picked the book up because the premise sounded great -- the meaning of life from the perspective of biology (atleast from Nick Lane's point of view). I thought that the high-level concepts were understandable, mostly because of the summary paragraphs here and there. There is a lot of (necessary) talk about mitochondria, prokaryotes, ATP, but sadly Lane stays mum on his theory of a higher power/are humans really just a big accident? A good portion of the book is the author hypothesizing based on recorded observations of many types of cells, something that scientists have been doing for decades around the topics covered here.  Some hypotheses could turn out to be wrong, but hey, they could be right too because all evidence seem to suggest so, and the possibility of the latter has the author understandably excited. This feeling of excitement is woven into the writing; it got me turning pages till the end.  
+
+
+I can now appreciate how complex life on Earth is the result of one cool, successful biochemical experiment, in all probability the only one out of many other failed trials, supervised by the all-seeing God Natural Selection; how proton-motive force is central to our existence, and why antioxidants are not always effective against free radicals in the body. But at the end, there were too many sentences whose meaning was not clear, too many gaps in the overall narrative and too much confusion, not just in the subject matter, but also in the style of writing. I don't know if the book was written keeping the layman in mind: if yes, then it misses the mark!  3 stars. 
+
