@@ -9,8 +9,7 @@ draft: false
 tags:
   - book review
   - don quixote
-  - wilkie collins
-  - anna karenina
+  - italo calvino
 description: A compendium of past book reviews.
 ---
 
@@ -26,6 +25,7 @@ These imaginations could be a conversation between Kublai Khan and Marco Polo, O
 
 ## This Divided Island: Stories from the Sri Lankan War - Samanth Subramanian
 
+![Cover of The Divided Island.](/public/images/divided_island.jpg)
 	
 I liked this book because it taught me more about the Sri Lanka war, and its cultural, political, religious motivations. It describes -- sometimes in a confused, scrambled way -- events of the war as recited to the author, by his contacts in the country. In addition to the lead-up to the conflict, which is information you can always acquire from the Internet, it works to give an account of the emotions of real people, and the touching stories that the juggernaut of war has left behind. Prepare yourself to be depressed, stunned, angry.
 
@@ -46,8 +46,15 @@ So when I reached the end, it was with a certain sadness that I laid it down. I 
 
 ## The Vital Question: Energy, Evolution, and the Origins of Complex Life - Nick Lane
 
+![Cover of The Vital Question.](/public/images/the_vital_question.jpg)
+
 If your only connection with Biology is the knowledge that the "mitochondria is the powerhouse of the cell", chances are this book is going to go whooshing over your head. Picked the book up because the premise sounded great -- the meaning of life from the perspective of biology (atleast from Nick Lane's point of view). I thought that the high-level concepts were understandable, mostly because of the summary paragraphs here and there. There is a lot of (necessary) talk about mitochondria, prokaryotes, ATP, but sadly Lane stays mum on his theory of a higher power/are humans really just a big accident? A good portion of the book is the author hypothesizing based on recorded observations of many types of cells, something that scientists have been doing for decades around the topics covered here.  Some hypotheses could turn out to be wrong, but hey, they could be right too because all evidence seem to suggest so, and the possibility of the latter has the author understandably excited. This feeling of excitement is woven into the writing; it got me turning pages till the end.  
 
 
 I can now appreciate how complex life on Earth is the result of one cool, successful biochemical experiment, in all probability the only one out of many other failed trials, supervised by the all-seeing God Natural Selection; how proton-motive force is central to our existence, and why antioxidants are not always effective against free radicals in the body. But at the end, there were too many sentences whose meaning was not clear, too many gaps in the overall narrative and too much confusion, not just in the subject matter, but also in the style of writing. I don't know if the book was written keeping the layman in mind: if yes, then it misses the mark!  3 stars. 
 
+## The Call of the Wild - Jack London
+
+![Cover of The Call of the Wild.](/public/images/callofthewild.jpg)
+
+Short and brutal, the animalistic tone to the book gives it an interesting edge. Generally dislike books where authors praise their own characters repeatedly ("and truly Buck was the Fiend Incarnate"), but at the end, I came away feeling a sense of satisfaction for Buck: howling, at the head of the wolf pack!
